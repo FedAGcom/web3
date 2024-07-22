@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # twa-template
 > Starter template for a new TWA interacting with the TON blockchain 
 
@@ -40,3 +41,6 @@ The project is highly-opinionated, and there are many other alternate routes it 
 
 # License
 MIT
+=======
+# web3
+>>>>>>> 026ec60b1b44162f71bdf790575adbf567b4145c
